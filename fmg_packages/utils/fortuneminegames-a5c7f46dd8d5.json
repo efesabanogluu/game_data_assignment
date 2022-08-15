@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fortuneminegames",
+  "private_key_id": "a5c7f46dd8d58af2597ab409c95ce7e718d295c6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDicaMb4BlXjEKG\nVhD3GqxpwoJj6maY+MjWL9h3o8nV8+SXKkqpDOaNtCPQo0/+DzIypmMzxTFfNH+R\npTSkQvmD/Vr/OxLbcBu1dJbE6OhJH6lhnxrx4roy0gVSmXLzDPBBWV9zt4TWsBY9\nvG4cI4WK9rcYX9u5D9IjH/IDp+aoYDYJpQ1mb21E1Hq59jM/q6Ftr4l/vpaD9r4h\nQ9+by64HzVV7eCpfhkX1DmtpTuXR9rVdudgZ1vJTLb+avSvvmhXfanfhTFy/Vuwq\nBWHS9icChOruxTwJoOBm5hEEK4QAGcN3y2hvLL3Stn0lNjO37QLvH7wPm4znGSi0\n23rxY8FPAgMBAAECggEAD/DK+Cvi7NBRYI6PfC2zBHDuZ+U42rzsunM8zFNJ4pdc\nOK3/+n2Pf1s2iDnu6CYetQUUh7DyhE64SkL0fTm/weRkcwIwFiWCtdfiwzLYI0mo\nzVf7eBqrW+d/+2wU9PossZT+jLFXFxvnPOpWYAG6JWmvwvYAjDsKYnGdwlcf/CtD\nweOmE9p87pl5tjs3fipv46YYuyiYYphqiJIj02+A2CxsxpeWKy0j7+rngBw3RcBo\nSLgqCK95lzAM0LlVEHnpVfvSdPuImTuUzmmFwwsEVVJmpQoFgDngF50A8f+Z2OKJ\nxMDQPa807/2a0XcGwKQORw2Xp7PiXzmJ0D5ToxHNPQKBgQD9AL4DKeb5ZXZdyaMl\naO1QV3kY2BdbtOPKFYiIdLmnnY1bjZHr/DabJWA3Yod90g70g+DXd9E2LdqFRCzT\n4IbGdbeOyDodJKZT4vTJBWafvExf9bq9DBg0PvwsChZjdlyEOBAbcyiYHk/yG4Qj\nFeFyowKhosFjZOZKUyM98piDFQKBgQDlIFoZVFWUsIoumcPZ9ny5revXYRSYxPxq\n4H75ScnYfOEevtoh72B5ZREIxZEk6jLwe0TcEuMfPZ8jGcRggP8RKODqG4qEXlXP\n5/AZJWmbuybQ3W0D36HKnsQ2xJ2x5KMaY0u2RoqQO7V8vtld+c/qy1ugzdFOtUgX\nWoaqSYqb0wKBgHmE/78ZQz2KxF2r2dbAHSw3t4x9TkrYCYko6plQJ1Qg0qKkzu/g\nBoJiY2J2ysleOZysMzSK8kvpnkngQv/JmjJ8nBvShEc3MUSdgCGFnJMgqDZ3Gqhu\nxLljf0/P0I0Zbrp7CxGEMH1QIeoR2VfYzJ55OWxVdjm9XvdYE1dPzH05AoGAJetK\nvfJlD2yAEeJEtWfDkH8mDsj0PawsEgwBN4RssTVJlGsFcqRJFQ4S2Z7IvJE9yOq9\npKZDjEIIeiijhU0T6WUYg+X28J0kGnpKE/9LEQjSDbL3fbKe9gd8dYvohS5Ph+hy\n+UGHYQNgr7puAs17CWKKUXx+bUY3HhZPPxNYqx0CgYEAgmEroo+QED2nOU7YZfnc\nOUESxnzKA1EelBaR7iJtttUv4oPvtlJrHuCHyJWm+nSZXRwHtCxdv5bHxwS6C8oU\n346QbOJ+oxhAUsoZqccnOVI3yVQiY6fssizaJNRKF9zzR1vpwgkNZ/7LCP/SlR0N\n4SgpjE5WXW+pfQWoYXzJ73U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "efesabanoglu@fortuneminegames.iam.gserviceaccount.com",
+  "client_id": "117227198015727657525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/efesabanoglu%40fortuneminegames.iam.gserviceaccount.com"
+}

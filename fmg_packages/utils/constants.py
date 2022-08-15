@@ -1,0 +1,21 @@
+BUCKET_NAME = "retention_ds"
+RESULTS_BUCKET = "results_ds"
+TARGET_PROJECT_ID = "fortuneminegames"
+#SOURCE_FILE_NAME = "/Users/efesabanoglu/Downloads/X-Games-Dummy-Data-Set.csv"
+DESTINATION_BLOB_NAME = "X-Games-Dummy-Data-Set.csv"
+EXECUTION_TS_KEY = "ts_nodash"
+TS_DATE_FORMAT = '%Y-%m-%d'
+TS_RESULTS_FORMAT = '%Y%m%d'
+TS_STORAGE_FORMAT = '/%Y/%m/%d'
+TS_NODASH_FORMAT = '%Y%m%dT%H%M%S'
+DAG_RUN_KEY = 'dag_run'
+CONF_REPORT_DATE_KEY = 'local_date'
+TARGET_SAMPLE_TABLE = "fortuneminegames.retention_ds.retention_data"
+TARGET_CLEANSED_TABLE = "fortuneminegames.retention_ds.cleansed_retention_data"
+TARGET_RESULTS_TABLE = "fortuneminegames.results_ds.results_"
+DATASET_NAME = "results_ds"
+START_DATE = "2022-7-7"
+END_DATE = "2022-7-17"
+COUNTRY = "Italy"
+VERSION = "0.14.66"
+
